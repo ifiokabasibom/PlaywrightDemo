@@ -1,0 +1,18 @@
+{
+    "username": "abasibom@systemspecs.com.ng",
+    "password": "Remita1@",
+    "name" : "Wisdom Abasibom",
+    "interest" : [
+        "GCP", "Selenium", "Cypress", 
+        "Playwright", "AWS", "NewCreation", 
+        "AzureDevOps", "DevOps", "Csharp"
+    ],
+    "gender" : ["female", "male"],
+    "address" : {
+        "area" : ["mainland", "island"],
+        "city" : ["Lekki", "Ikoyi", "Ajah", "Victoria Island", "Maryland", "Festac", "Itire", "Ajegunle", "Akoka"],
+        "pincode" : "556699"
+    }
+
+    
+}
